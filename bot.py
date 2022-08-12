@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
     token = os.environ['TOKEN']
 
-    bot = telegram.Bot(token=token)
+    bot = telegram.Bot(5509022935:AAF-KQAQ1wgqjir-yHUIJcwLLzSE9HVoizk)
 
     updater = Updater(token=token, use_context=True)
 
